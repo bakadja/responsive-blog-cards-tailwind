@@ -10,6 +10,7 @@ Responsive blog card layout built with vanilla HTML and Tailwind CSS. The projec
 
 ## Table of Contents
 - [Overview](#overview)
+- [Live Demo](#live-demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,6 +21,9 @@ Responsive blog card layout built with vanilla HTML and Tailwind CSS. The projec
 
 ## Overview
 This repository delivers a polished front-end layout for a plant-themed blog. It demonstrates how to compose responsive cards using Tailwind’s utility-first approach without a build step—perfect for showcasing UI skills or bootstrapping a content-driven landing page.
+
+## Live Demo
+- [Responsive Blog Cards](https://bakadja.github.io/responsive-blog-cards-tailwind/)
 
 ## Features
 - Responsive grid that adapts from stacked cards on mobile to multi-column layouts on larger screens.
