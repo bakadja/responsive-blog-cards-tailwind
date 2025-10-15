@@ -6,7 +6,7 @@
 
 Responsive blog card layout built with vanilla HTML and Tailwind CSS. The project focuses on clean UI design, accessible content (line clamps, focus states), and recruiter-friendly code structure. Every card includes hover states, author avatars, interaction icons, and a newsletter footer for user engagement.
 
-![Responsive blog cards preview](img/logo.png)
+![Responsive blog cards preview](img/preview.png)
 
 ## Table of Contents
 - [Overview](#overview)
